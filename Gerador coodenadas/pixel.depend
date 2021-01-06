@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1505151052 source:c:\users\fw\desktop\pixel\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1298986600 c:\users\fw\desktop\pixel\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\fw\desktop\pixel\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\fw\desktop\pixel\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\fw\desktop\pixel\gl\freeglut_ext.h
+
+1505150884 c:\users\fw\desktop\pixel\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 c:\users\fw\desktop\pixel\soil\soil.h
+
+1537910848 source:c:\users\fw\desktop\pixel\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<winable.h>
+	<vector>
+	"gl\glut.h"
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1215465208 source:c:\users\fw\desktop\pixel\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\fw\desktop\pixel\soil\image_dxt.h
+
+1215465208 source:c:\users\fw\desktop\pixel\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\fw\desktop\pixel\soil\image_helper.h
+
+1425993830 source:c:\users\fw\desktop\pixel\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\fw\desktop\pixel\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\fw\desktop\pixel\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\fw\desktop\pixel\soil\stbi_dds_aug.h
+
+1215465208 c:\users\fw\desktop\pixel\soil\stbi_dds_aug_c.h
+
+1505154652 source:c:\users\filipe\desktop\pixel\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1298990200 c:\users\filipe\desktop\pixel\gl\glut.h
+	"freeglut.h"
+
+1298990200 c:\users\filipe\desktop\pixel\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298990200 c:\users\filipe\desktop\pixel\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298990200 c:\users\filipe\desktop\pixel\gl\freeglut_ext.h
+
+1505154484 c:\users\filipe\desktop\pixel\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215468808 c:\users\filipe\desktop\pixel\soil\soil.h
+
+1537914450 source:c:\users\filipe\desktop\pixel\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<winable.h>
+	<vector>
+	"gl\glut.h"
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1215468808 source:c:\users\filipe\desktop\pixel\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215468808 c:\users\filipe\desktop\pixel\soil\image_dxt.h
+
+1215468808 source:c:\users\filipe\desktop\pixel\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215468808 c:\users\filipe\desktop\pixel\soil\image_helper.h
+
+1425997430 source:c:\users\filipe\desktop\pixel\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215468808 c:\users\filipe\desktop\pixel\soil\stb_image_aug.h
+	<stdio.h>
+
+1425998644 source:c:\users\filipe\desktop\pixel\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215468808 c:\users\filipe\desktop\pixel\soil\stbi_dds_aug.h
+
+1215468808 c:\users\filipe\desktop\pixel\soil\stbi_dds_aug_c.h
+
+1505154652 source:c:\users\filipe\desktop\pixel2\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1298990200 c:\users\filipe\desktop\pixel2\gl\glut.h
+	"freeglut.h"
+
+1298990200 c:\users\filipe\desktop\pixel2\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298990200 c:\users\filipe\desktop\pixel2\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298990200 c:\users\filipe\desktop\pixel2\gl\freeglut_ext.h
+
+1505154484 c:\users\filipe\desktop\pixel2\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\soil.h
+
+1215468808 source:c:\users\filipe\desktop\pixel2\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\image_dxt.h
+
+1215468808 source:c:\users\filipe\desktop\pixel2\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\image_helper.h
+
+1425997430 source:c:\users\filipe\desktop\pixel2\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\stb_image_aug.h
+	<stdio.h>
+
+1425998644 source:c:\users\filipe\desktop\pixel2\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\stbi_dds_aug.h
+
+1215468808 c:\users\filipe\desktop\pixel2\soil\stbi_dds_aug_c.h
+
+1588136647 source:c:\users\filipe\desktop\pixel2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<winable.h>
+	<vector>
+	"gl\glut.h"
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
