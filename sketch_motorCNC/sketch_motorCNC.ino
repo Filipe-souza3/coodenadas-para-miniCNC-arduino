@@ -79,7 +79,7 @@ void loop() {
       
       Serial.println();
       Serial.print(intx);
-      Serial.print(" k ");
+      Serial.print(" -- ");
       Serial.print(inty);
     }
   }
